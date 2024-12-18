@@ -44,7 +44,7 @@ mkdir models
 1. 執行主程式：
 
 ```bash
-python app.py
+python app6.py
 ```
 
 2. 按照提示操作：
